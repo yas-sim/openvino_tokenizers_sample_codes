@@ -1,0 +1,9 @@
+openvino_tokenizers
+optimum-intel
+openvino
+nncf
+
+SentencePiece
+
+ipykernel
+ipywidgets
