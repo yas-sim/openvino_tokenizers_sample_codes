@@ -6,8 +6,8 @@ The code in this repository demonstrates how to convert the tokenizers into Open
 
 |#|file|description|
 |---|---|---|
-|1|converting-tokenizer.ipynb|Download a Tiny-Llama-1.1B tokenizer models from HuggingFace hub, and convert the tokenizer into OpenVINO IR models.|
-|2|sentiment-analysis-tokenizer-integration.ipynb|Integrate a tokenizer model into a sentiment analysis model.|
+|1|[converting-tokenizer.ipynb](./converting-tokenizer.ipynb)|Download a Tiny-Llama-1.1B tokenizer models from HuggingFace hub, and convert the tokenizer into OpenVINO IR models.|
+|2|[sentiment-analysis-tokenizer-integration.ipynb](./sentiment-analysis-tokenizer-integration.ipynb)|Integrate a tokenizer model into a sentiment analysis model.|
 
 ## Test environment
 OpenVINO 2024.1  
